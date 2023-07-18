@@ -46,3 +46,6 @@
   --ocean-emoji-picker-color: 120deg;
 }
 
+.wordmark-2u86JB:after {
+  filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
+  content: url("https://cdn.discordapp.com/attachments/965434104365608960/1130972715621298196/xXjkmsuDlEBjaXn6DXOnxmzu.png");
